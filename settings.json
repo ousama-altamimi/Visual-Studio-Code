@@ -1,0 +1,9 @@
+{
+    "editor.minimap.enabled": false, //يعطل عرض الخريطة المصغرة
+    "editor.scrollbar.verticalScrollbarSize": 23 , //تكبير بار التحريك الجانبي
+    "editor.scrollbar.horizontalScrollbarSize": 21, //تكبير بار التحريك السفلي
+    "editor.mouseWheelZoom": true, //Ctrl + Scroll السماح بالزوم من خلال
+    "window.menuBarVisibility": "compact", //يجعل شريط القوائم مرئيًا بحجم مضغوط
+    "workbench.sideBar.location": "right", //تحويل مكان القائمة الى اليمين
+    "editor.cursorBlinking": "expand", //expand يحدد نوع وميض المؤشر ليكون
+}
