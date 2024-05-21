@@ -6,7 +6,8 @@
     "window.menuBarVisibility": "compact", //يجعل شريط القوائم مرئيًا بحجم مضغوط
     "workbench.sideBar.location": "right", //تحويل مكان القائمة الى اليمين
     "editor.cursorBlinking": "expand", //expand يحدد نوع وميض المؤشر ليكون
-    
+    "workbench.tree.indent": 20, // تعديل المسافة البادئة للمجلدات وتوابعها
+
     "workbench.iconTheme": "material-icon-theme", //icon الاضافة المستخدمه لتغيير الـ
     "bookmarks.saveBookmarksInProject": true, //VS Code السماح بحفظ الإشارات المرجعية (واستعادتها) محليًا في المشروع/المجلد المفتوح بدلاً من
 }
