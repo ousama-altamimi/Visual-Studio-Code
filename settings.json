@@ -10,4 +10,7 @@
 
     "workbench.iconTheme": "material-icon-theme", //icon الاضافة المستخدمه لتغيير الـ
     "bookmarks.saveBookmarksInProject": true, //VS Code السماح بحفظ الإشارات المرجعية (واستعادتها) محليًا في المشروع/المجلد المفتوح بدلاً من
+    
+    "github.copilot.editor.enableAutoCompletions": true,
+    "git.autofetch": true,
 }
